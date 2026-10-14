@@ -16,5 +16,10 @@ namespace GIT_PR07
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            TextBox.Show("Шишов Ярослав Андреевич")
+        }
     }
 }
